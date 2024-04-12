@@ -1,0 +1,17 @@
+{
+  "version": "0.1",
+  "connections": [
+    {
+      "details": {
+        "protocol": "file",
+        "address": {
+          "path": "c:\\users\\rk\\downloads\\power_bi_project\\superstore_sales_dataset.csv"
+        },
+        "authentication": null,
+        "query": null
+      },
+      "options": {},
+      "mode": null
+    }
+  ]
+}
